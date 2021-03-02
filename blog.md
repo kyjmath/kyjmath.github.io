@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /projects/
+permalink: /blog/
 title: Projects
 pagination:
   enabled: true
