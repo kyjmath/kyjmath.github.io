@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: blog
 permalink: /projects/
 title: YoungJin Kang | Projects
 pagination:
