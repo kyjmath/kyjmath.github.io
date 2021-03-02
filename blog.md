@@ -1,7 +1,7 @@
 ---
-layout: blog
-permalink: /blog/
-title: Rohit Jain | Blog
+layout: Project
+permalink: /projects/
+title: YoungJin Kang | Projects
 pagination:
   enabled: true
 ---
