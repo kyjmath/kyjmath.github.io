@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /projects/
+permalink: /blog/
 title: YoungJin Kang | Projects
 pagination:
   enabled: true
