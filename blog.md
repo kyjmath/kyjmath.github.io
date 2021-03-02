@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: YoungJin Kang | Projects
+title: Projects
 pagination:
   enabled: true
 ---
