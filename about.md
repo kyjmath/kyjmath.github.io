@@ -25,7 +25,7 @@ I am very interested in data analysis using math and Python.<br>
 ## ![L.logo](https://kyjmath.github.io/assets/Emogi/lancaster university logo.png) 2021.10-2022.06 Lancaster university
 #### Pre-Master program
 
-<center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="400px"></center>
+<center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="20px"></center>
 
 
 
