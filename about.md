@@ -21,9 +21,9 @@ I am very interested in data analysis using math and Python.<br>
 
 # Education
 ## ![p.logo](https://kyjmath.github.io/assets/Emogi/peking university logo.png) 2014.09-2021.06 Peking university
-#### >>Mathematics and Applied Mathematics
+>> #### Mathematics and Applied Mathematics
 ## ![L.logo](https://kyjmath.github.io/assets/Emogi/lancaster university logo.png) 2021.10-2022.06 Lancaster university
-#### >>>Pre-Master program
+>>> #### Pre-Master program
 
 <center>![L.logo](https://kyjmath.github.io/assets/Emogi/lancaster university logo.png)</center>
 
