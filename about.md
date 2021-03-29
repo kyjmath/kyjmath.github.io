@@ -28,8 +28,8 @@ I am very interested in data analysis using math and Python.<br>
 
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></center>
 ## <center>Lancaster university</center>
-<center>2014.09-2021.06           2021.10-2022.06  </center>
-#### <center>Pre-master           MSc.Data Science</center>
+<center>2021.06-2022.06&emsp;&emsp;2022.10-2023.06  </center>
+#### <center>Pre-master&emsp;&emsp;MSc.Data Science</center>
 
 ## Header 2
 
