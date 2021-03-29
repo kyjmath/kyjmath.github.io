@@ -20,7 +20,7 @@ I am very interested in data analysis using math and Python.<br>
 ***
 
 # Education
-# ![p.logo](https://kyjmath.github.io/assets/Emogi/peking university logo.png) _2014.09-2021.06_  Peking university
+# ![p.logo](https://kyjmath.github.io/assets/Emogi/peking university logo.png) \2014.09-2021.06\ Peking university
 
 ## Header 2
 
