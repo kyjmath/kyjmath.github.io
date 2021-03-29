@@ -25,10 +25,10 @@ I am very interested in data analysis using math and Python.<br>
 ## ![L.logo](https://kyjmath.github.io/assets/Emogi/lancaster university logo.png) 2021.10-2022.06 Lancaster university
 #### Pre-Master program
 
-<center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="100px"></center>
-### <center>Peking university</center>
-<center>_2014.09-2021.06_</center>
-#### <center>Mathematics and Applied Mathematics</center>
+<center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="100px"></center><br>
+### <center>Peking university</center><br>
+<center>_2014.09-2021.06_</center><br>
+#### <center>Mathematics and Applied Mathematics</center><br>
 
 
 
