@@ -19,11 +19,8 @@ I am very interested in data analysis using math and Python.<br>
 
 ***
 
-## 영국에서 data science 석사를 최우수로 마친 후,<br> 마지막 학기에 현지에서 3개월 인턴을 한 후, 무조건 그곳에서 자리를 잡는다.<br> 영국에서 훌륭한 데이터 사이언티스트가 될것이다.
+## Education
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
