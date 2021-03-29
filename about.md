@@ -19,8 +19,8 @@ I am very interested in data analysis using math and Python.<br>
 
 ***
 
-## Education
-![p.logo](https://kyjmath.github.io/assets/Emogi/peking university logo.png) **Peking university** _2014.09-2021.06_
+# Education
+![p.logo](https://kyjmath.github.io/assets/Emogi/peking university logo.png) ##  _2014.09-2021.06_  Peking university
 
 ## Header 2
 
