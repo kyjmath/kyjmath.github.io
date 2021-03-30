@@ -23,6 +23,30 @@ I am very interested in data analysis using math and Python.<br><br>
 <!-- 교육 -->
 <center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center>
   <!-- 북경대학교 -->
+<div style="width:50%; height:600px; float:left; text-align:center;">
+<center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"></center>
+<center><span style = "font-weight:bold;font-size:28px;">Peking university</span></center>
+<center><span style="font-style:italic;font-size:18px;line-height:30px;">2014.09 - 2021.06</span></center>
+<center><span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics and Applied Mathematics</span><br>
+<span style ="font-size:18px">(The first Korean graduate in the Department)</span></center><br>
+</div>
+  <!-- 랑카스터대학교 -->
+<div style="width:50%; height:600px; float:right; text-align:center;">
+<center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
+<center><span style = "font-weight:bold;font-size:28px;">Lancaster university</span></center>
+<div style="width:30%; height:150px; float:left; text-align:center; margin-left:20%;">
+<span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06</span><br>
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master</span>
+</div>
+<div style="width:30%; height:150px; float:right; text-align:center; margin-right:20%;">
+<span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
+</div>
+</div>
+
+<!-- 교육 -->
+<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center>
+  <!-- 북경대학교 -->
 <center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Peking university</span></center>
 <center><span style="font-style:italic;font-size:18px;line-height:30px;">2014.09 - 2021.06</span></center>
@@ -39,6 +63,8 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
 </div>
+
+
 
 <!-- 스킬 -->
 <center><span style="font-weight:bold;font-size:40px;line-height:60px;color:navy;">Skills</span></center>
