@@ -17,11 +17,12 @@ I am very interested in data analysis using math and Python.<br>
 지금은 현재 데이터과학쪽으로 석사 진학을 준비중입니다.<br>
 저는 수학과 파이썬을 이용한 데이터 분석에 흥미가 매우 많습니다.<br>
 </span>
+
 ***
 
 <center><span style="font-weight:bold;font-size:40px;color:navy;">Education</span></center>
 
-<img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">
+<img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"><br>
 <span style = " font-size:30px;">Peking university</span>
 <span style = " font-size:16px;line-height:10px;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
