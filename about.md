@@ -52,7 +52,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style ="font-size:18px">Statistical Modelling</span>
 </div>
   <!-- 프로그래밍 -->
-<div style="width:20% height:150px; text-align:left;">
+<div style="width:20%; height:150px; text-align:left;">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Programming</span><br>
 <span style ="font-size:18px">Python</span><br>
 <span style ="font-size:18px">R language</span><br>
@@ -60,7 +60,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style ="font-size:18px">Artificial Intelligence</span>
 </div>
   <!-- 언어 -->
-<div style="width:20% height:150px; text-align:left; margin-left:10%; margin-right:10%;">
+<div style="width:20%; height:150px; text-align:left; margin-left:10%; margin-right:10%;">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Language</span><br>
 <span style ="font-size:18px">Korean(Native)</span><br>
 <span style ="font-size:18px">English(Fluent)</span><br>
