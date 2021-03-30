@@ -46,7 +46,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Skills</span>
 </div>
   <!-- 수학 -->
-<div style="width:20%; height:150px; float:left; text-align:left; margin-left:10%; margin-right:10%">
+<div style="width:20%; height:150px; text-align:left; margin-left:10%; margin-right:10%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics</span><br>
 <span style ="font-size:18px">Time Series</span><br>
 <span style ="font-size:18px">Statistical Modelling</span>
