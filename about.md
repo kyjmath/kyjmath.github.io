@@ -31,13 +31,12 @@ I am very interested in data analysis using math and Python.<br><br>
   <!-- 랑카스터대학교 -->
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Lancaster university</span></center>
-<div style="width:200px; height:150px; float:center; margin-right:10px;">
+<div style="width:200px; height:150px; float:center; text-align:center; margin-right:10px;">
 <span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06</span><br>
-<center><span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master</span></center>
-</div>
-<div style="width:200px; height:150px; float:center;">
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master</span>
+<div style="width:200px; height:150px; float:right; text-align:center;">
 <span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
-<center><span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span></center>
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
 </div>
 <br>
 
