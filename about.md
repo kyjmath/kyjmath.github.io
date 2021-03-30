@@ -35,7 +35,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06</span><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master</span>
 </div>
-<div style="width:25% height:150px; text-align:center;">
+<div style="width:25% height:150px; text-align:center; margin-right:25%;">
 <span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
 </div>
