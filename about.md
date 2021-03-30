@@ -25,14 +25,14 @@ I am very interested in data analysis using math and Python.<br><br>
   <!-- 북경대학교 -->
 <center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Peking university</span></center>
-<center><span style="font-style:italic;font-size:18px;line-height:24px;">2014.09 - 2021.06</span></center>
-<center><span style ="font-weight:bold;font-size:22px;line-height:40px;">Mathematics and Applied Mathematics</span>
-<br><span style ="font-size:20px;line-height:24px;">(The first Korean graduate in the Department)</span></center>
+<center><span style="font-style:italic;font-size:18px;line-height:30px;">2014.09 - 2021.06</span></center>
+<center><span style ="font-weight:bold;font-size:22px;line-height:50px;">Mathematics and Applied Mathematics</span>
+<br><span style ="font-size:20px;line-height:24px;">(The first Korean graduate in the Department)</span></center><br>
   <!-- 랑카스터대학교 -->
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Lancaster university</span></center>
-<center><span style="font-style:italic;font-size:18px;line-height:18px;">2021.10 - 2022.06&emsp;&emsp;&emsp;2022.10 - 2023.06</span></center>
-<center>&emsp;&emsp;<span style ="font-weight:bold;font-size:22px;line-height:24px;">Pre-Master&emsp;&emsp;&emsp;MSc.Data Science</span></center>
+<center><span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06&emsp;&emsp;&emsp;2022.10 - 2023.06</span></center>
+<center>&emsp;&emsp;&emsp;<span style ="font-weight:bold;font-size:50px;line-height:24px;">Pre-Master&emsp;&emsp;MSc.Data Science</span></center>
 
 
 ## Header 2
