@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<!-- 자기소개 -->
 
-<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">About</span></center><br>
+<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">About</span></center>
 <span style=";font-size:16px;line-height:1.5em;">
 Hi, I am YoungJin Kang. I was born in Korea on September 13, 1995.<br>
 I started studying abroad in China when I was 14 years old and graduated from Peking University.<br>
@@ -13,7 +14,6 @@ I graduated as a Korean for the first time in Peking University's mathematics de
 I'm currently preparing for a master's degree in data science.<br>
 I am very interested in data analysis using math and Python.<br>
 </span><br>
-
 <span style=";font-size:16px;line-height:1.5em;">
 안녕하세요. 제 이름은 강영진입니다. 저는 1995년9월13일에 한국에서 태어났습니다.<br>
 14살때부터 중국에서 유학을 시작해서, 중국 북경대학교를 졸업했습니다.<br>
@@ -22,18 +22,20 @@ I am very interested in data analysis using math and Python.<br>
 저는 수학과 파이썬을 이용한 데이터 분석에 흥미가 매우 많습니다.<br>
 </span>
 
+<!-- 교육 -->
 
-<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center><br>
-
-<img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"><br>
+<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center>
+<center><div><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">                                          
+<img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></div></center>
 <span style = "font-weight:bold;font-size:30px;">Peking university</span><br>
 <span style = " font-size:18px;line-height:22px;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
-
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></center>
 ## <center>Lancaster university</center>
 <center>2021.06-2022.06&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.10-2023.06  </center>
 #### <center>Pre-master&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;MSc.Data Science</center>
+
+
 
 ## Header 2
 
