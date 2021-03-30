@@ -35,11 +35,11 @@ I am very interested in data analysis using math and Python.<br><br>
 <center>&emsp;&emsp;&emsp;<span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master&emsp;&emsp;&emsp;&emsp;&emsp;MSc.Data Science</span></center>
 
 <div style="width:200px; height:150px; float:left; margin-right:10px;">
-<span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06</span>
+<span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06</span><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master</span>
 </div>
 <div style="width:200px; height:150px; float:left;">
-<span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span>
+<span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
 </div>
 
