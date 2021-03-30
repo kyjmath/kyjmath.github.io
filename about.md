@@ -23,7 +23,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <!-- 교육 -->
 <center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center>
   <!-- 북경대학교 -->
-<div style="width:50%; height:600px; float:left; text-align:center;">
+<div style="width:50%; height:400px; float:left; text-align:center;">
 <center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Peking university</span></center>
 <center><span style="font-style:italic;font-size:18px;line-height:30px;">2014.09 - 2021.06</span></center>
@@ -31,8 +31,8 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style ="font-size:18px">(The first Korean graduate in the Department)</span></center><br>
 </div>
   <!-- 랑카스터대학교 -->
-<div style="width:50%; height:600px; float:right; text-align:center;">
-<center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="100px"></center>
+<div style="width:50%; height:400px; float:right; text-align:center;">
+<center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="120px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Lancaster university</span></center>
 <div style="width:40%; height:150px; float:left; text-align:center; margin-left:10%;">
 <span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06</span><br>
