@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<center><span style="font-weight:bold;font-size:40px;line-height:40px;color:navy;">About</span></center><br>
+<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">About</span></center><br>
 <span style=";font-size:16px;line-height:1.5em;">
 Hi, I am YoungJin Kang. I was born in Korea on September 13, 1995.<br>
 I started studying abroad in China when I was 14 years old and graduated from Peking University.<br>
@@ -23,11 +23,11 @@ I am very interested in data analysis using math and Python.<br>
 </span>
 
 
-<center><span style="font-weight:bold;font-size:40px;line-height:80px;color:navy;">Education</span></center><br>
+<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center><br>
 
 <img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"><br>
 <span style = "font-weight:bold;font-size:30px;">Peking university</span><br>
-<span style = " font-size:18px;line-height:18px;">2014.09-2021.06</span>
+<span style = " font-size:18px;line-height:22px;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
 
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></center>
