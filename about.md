@@ -21,12 +21,13 @@ I am very interested in data analysis using math and Python.
 </span></pre>
 
 <!-- 교육 -->
-  <!-- 로고 -->
 <center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center>
-<center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <!-- 로고 -->
+<center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
   <!-- 학교이름 -->
-<span style = "font-weight:bold;font-size:30px;">Peking university</span><br>
+<span style = "font-weight:bold;font-size:28px;">Peking university&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lancaster university</span><br>
   <!-- 연도 -->
 <span style = " font-size:18px;line-height:22px;">2014.09-2021.06</span>
   <!-- 학과 -->
