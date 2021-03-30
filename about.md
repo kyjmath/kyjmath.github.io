@@ -50,11 +50,11 @@ I am very interested in data analysis using math and Python.<br><br>
 </div>
   <!-- 프로그래밍 -->
 <div style="width:30%; height:150px; float:right; text-align:left; margin-left:5%; margin-right:15%">
-<span style ="font-weight:bold;font-size:20px;line-height:50px;">Programming</span><br>
-<span style ="font-size:18px">* Python</span><br>
-<span style ="font-size:18px">* R language</span><br>
-<span style ="font-size:18px">* SQL</span><br>
-<span style ="font-size:18px">** Artificial Intelligence</span>
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Programming</span>
+  <li><span style ="font-size:18px">* Python</span></li>
+  <li><span style ="font-size:18px">* R language</span></li>
+  <li><span style ="font-size:18px">* SQL</span></li>
+  <li><span style ="font-size:18px">** Artificial Intelligence</span></li>
 </div>
   <!-- 언어 -->
 <div style="width:30%; height:150px; float:left; text-align:left; margin-left:15%; margin-right:5%">
