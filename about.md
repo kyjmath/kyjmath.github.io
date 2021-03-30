@@ -23,7 +23,7 @@ I am very interested in data analysis using math and Python.<br>
 </span>
 
 
-<center><span style="font-weight:bold;font-size:40px;line-height:40px;color:navy;">Education</span></center><br>
+<center><span style="font-weight:bold;font-size:40px;line-height:80px;color:navy;">Education</span></center><br>
 
 <img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"><br>
 <span style = "font-weight:bold;font-size:30px;">Peking university</span><br>
