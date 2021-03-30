@@ -26,8 +26,8 @@ I am very interested in data analysis using math and Python.<br><br>
 <center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Peking university</span></center>
 <center><span style="font-style:italic;font-size:18px;line-height:30px;">2014.09 - 2021.06</span></center>
-<center><span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics and Applied Mathematics</span>
-<br><span style ="font-size:18px">(The first Korean graduate in the Department)</span></center><br>
+<center><span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics and Applied Mathematics</span><br>
+<span style ="font-size:18px">(The first Korean graduate in the Department)</span></center><br>
   <!-- 랑카스터대학교 -->
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Lancaster university</span></center>
@@ -39,8 +39,27 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
 </div>
-<br>
-<br>
+
+<!-- 스킬 -->
+<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Skills</span></center>
+<div style="width:20%; height:150px; float:left; text-align:left; margin-left:10%;">
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics</span><br>
+<span style ="font-size:18px">Time Series</span><br>
+<span style ="font-size:18px">Statistical Modelling</span>
+</div>
+<div style="width:20% height:150px; text-align:left; margin-left:10%;">
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Programming</span>><br>
+<span style ="font-size:18px">Python</span><br>
+<span style ="font-size:18px">R language</span><br>
+<span style ="font-size:18px">SQL</span><br>
+<span style ="font-size:18px">Artificial Intelligence</span>
+</div>
+<div style="width:20% height:150px; text-align:left; margin-left:10%; margin-right:10%;">
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Language</span><br>
+<span style ="font-size:18px">Korean(Native)</span><br>
+<span style ="font-size:18px">English(Fluent)</span><br>
+<span style ="font-size:18px">Chinese(Fluent)</span>
+</div>
 
 ## Header 2
 
