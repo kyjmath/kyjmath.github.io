@@ -19,11 +19,11 @@ I am very interested in data analysis using math and Python.<br>
 
 ***
 
-<center><span style="font-weight:bold;font-size:25px;color:navy;">Education</span></center>
+<center><span style="font-weight:bold;font-size:40px;color:navy;">Education</span></center>
 
 <img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">
 ## Peking university
-<span style = " font-size:16px;line-height:1.0em;">2014.09-2021.06</span>
+<span style = " font-size:16px;line-height:0.5em;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
 
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></center>
