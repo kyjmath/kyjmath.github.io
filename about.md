@@ -11,7 +11,7 @@ permalink: /about/
 I started studying abroad in China when I was 14 years old and graduated from Peking University.
 I graduated as a Korean for the first time in Peking University's mathematics department, and my major is applied mathematics.
 I'm currently preparing for a master's degree in data science.
-I am very interested in data analysis using math and Python.<br>
+I am very interested in data analysis using math and Python.<br><br>
   <!-- 한국어 -->
 안녕하세요. 제 이름은 강영진입니다. 저는 1995년9월13일에 한국에서 태어났습니다.
 14살때부터 중국에서 유학을 시작해서, 중국 북경대학교를 졸업했습니다.
@@ -25,13 +25,14 @@ I am very interested in data analysis using math and Python.<br>
   <!-- 북경대학교 -->
 <center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Peking university</span></center>
-<center><span style="font-style:italic;font-size:18px;line-height:18px;">2014.09 - 2021.06</span></center>
-<center><span style ="font-weight:bold;font-size:22px;line-height:24px;">Mathematics and Applied Mathematics</span></center>
+<center><span style="font-style:italic;font-size:18px;line-height:24px;">2014.09 - 2021.06</span></center>
+<center><span style ="font-weight:bold;font-size:22px;line-height:40px;">Mathematics and Applied Mathematics</span>
+<br><span style ="font-size:20px;line-height:24px;">(The first Korean graduate in the Department)</span></center>
   <!-- 랑카스터대학교 -->
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">Lancaster university</span></center>
 <center><span style="font-style:italic;font-size:18px;line-height:18px;">2021.10 - 2022.06&emsp;&emsp;&emsp;2022.10 - 2023.06</span></center>
-<center><span style ="font-weight:bold;font-size:22px;line-height:24px;">Pre-Master&emsp;&emsp;&emsp;MSc.Data Science</span></center>
+<center>&emsp;&emsp;<span style ="font-weight:bold;font-size:22px;line-height:24px;">Pre-Master&emsp;&emsp;&emsp;MSc.Data Science</span></center>
 
 
 ## Header 2
