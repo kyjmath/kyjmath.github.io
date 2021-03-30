@@ -39,7 +39,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
 <center><span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span></center>
 </div>
-
+<br>
 
 ## Header 2
 
