@@ -23,7 +23,7 @@ I am very interested in data analysis using math and Python.<br>
 
 <img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">
 ## Peking university
-<span style = " font-size:16px;line-height:0.5em;">2014.09-2021.06</span>
+<span style = " font-size:16px;line-height:10px;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
 
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></center>
