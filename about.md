@@ -43,29 +43,35 @@ I am very interested in data analysis using math and Python.<br><br>
 <!-- 스킬 -->
 <center><span style="font-weight:bold;font-size:40px;line-height:60px;color:navy;">Skills</span></center>
   <!-- 수학 -->
-<div style="width:30%; height:150px; float:left; text-align:left; margin-left:15%; margin-right:5%">
+<div style="width:30%; height:180px; float:left; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics</span><br>
-<span style ="font-size:18px">Time Series</span><br>
-<span style ="font-size:18px">Statistical Modelling</span>
+  <li><span style ="font-size:18px">Time Series</span></li>
+  <li><span style ="font-size:18px">Statistical Modelling</span></li>
+  <li><span style ="font-size:18px">Partial Differential Equation</span></li>
+  <li><span style ="font-size:18px">Probablity</span></li>
 </div>
   <!-- 프로그래밍 -->
-<div style="width:30%; height:150px; float:right; text-align:left; margin-left:5%; margin-right:15%">
+<div style="width:30%; height:180px; float:right; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Programming</span>
-  <li><span style ="font-size:18px">* Python</span></li>
-  <li><span style ="font-size:18px">* R language</span></li>
-  <li><span style ="font-size:18px">* SQL</span></li>
-  <li><span style ="font-size:18px">** Artificial Intelligence</span></li>
+  <li><span style ="font-size:18px">Python</span></li>
+  <li><span style ="font-size:18px">R language</span></li>
+  <li><span style ="font-size:18px">SQL</span></li>
+  <li><span style ="font-size:18px">CSS</span></li>
+  <li><span style ="font-size:18px">Artificial Intelligence</span></li>
 </div>
   <!-- 언어 -->
-<div style="width:30%; height:150px; float:left; text-align:left; margin-left:15%; margin-right:5%">
+<div style="width:30%; height:180px; float:left; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Language</span><br>
 <span style ="font-size:18px">Korean (Native)</span><br>
 <span style ="font-size:18px">English (Fluent)</span><br>
 <span style ="font-size:18px">Chinese (Fluent)</span>
 </div>
   <!-- 이외-->
-<div style="width:30%; height:150px; float:right; text-align:left; margin-left:5%; margin-right:15%">
-<span style ="font-weight:bold;font-size:20px;line-height:50px;">Others</span><br>
+<div style="width:30%; height:180px; float:right; text-align:left; margin-left:15%; margin-right:5%">
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Other Interests</span><br>
+  <li><span style ="font-size:18px">Rubik's cube</span></li>
+  <li><span style ="font-size:18px">Guitar</span></li>
+  <li><span style ="font-size:18px">Badminton</span></li>
 </div>
 ## Header 2
 
