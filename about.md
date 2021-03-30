@@ -35,9 +35,10 @@ I am very interested in data analysis using math and Python.<br><br>
 <center>&emsp;&emsp;&emsp;<span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master&emsp;&emsp;&emsp;&emsp;&emsp;MSc.Data Science</span></center>
 
 <br><br>
-|:-------------|:---------------|
 <span style="font-style:italic;font-size:18px;line-height:30px;">| 2021.10 - 2022.06 | 2022.10 - 2023.06 |</span>
-<span style ="font-weight:bold;font-size:20px;line-height:50px;">| Pre-Master      | MSc.Data Science |</span>
+|:------------------|:------------------|
+<span style="font-style:italic;font-size:18px;line-height:30px;">| 2021.10 - 2022.06 | 2022.10 - 2023.06 |</span>
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">| Pre-Master        | MSc.Data Science  |</span>
 <br>
 | 2021.10 - 2022.06 | 2022.10 - 2023.06 |
 |:------------------|:------------------|
