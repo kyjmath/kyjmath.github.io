@@ -35,13 +35,13 @@ I am very interested in data analysis using math and Python.<br><br>
 <center>&emsp;&emsp;&emsp;<span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master&emsp;&emsp;&emsp;&emsp;&emsp;MSc.Data Science</span></center>
 
 <br><br>
-<center>|:-------------|:---------------|</center>
-<center><span style="font-style:italic;font-size:18px;line-height:30px;">|2021.10 - 2022.06|2022.10 - 2023.06|</span></center>
-<center>&emsp;&emsp;&emsp;<span style ="font-weight:bold;font-size:20px;line-height:50px;">|Pre-Master      |MSc.Data Science|</span></center>
+|:-------------|:---------------|
+<span style="font-style:italic;font-size:18px;line-height:30px;">| 2021.10 - 2022.06 | 2022.10 - 2023.06 |</span>
+<center>&emsp;&emsp;&emsp;<span style ="font-weight:bold;font-size:20px;line-height:50px;">| Pre-Master      | MSc.Data Science |</span>
 
-|2021.10 - 2022.06|2022.10 - 2023.06|
-|:----------------|:----------------|
-|Pre-Master       |MSc.Data Science |
+| 2021.10 - 2022.06 | 2022.10 - 2023.06 |
+|:------------------|:------------------|
+| Pre-Master        | MSc.Data Science  |
 ## Header 2
 
 > This is a blockquote following a header.
