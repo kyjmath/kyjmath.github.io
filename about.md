@@ -73,6 +73,16 @@ I am very interested in data analysis using math and Python.<br><br>
   <li><span style ="font-size:18px">Guitar</span></li>
   <li><span style ="font-size:18px">Badminton</span></li>
 </div>
+
+<!--경험-->
+<center><span style="font-weight:bold;font-size:40px;line-height:60px;color:navy;">Experience</span></center>
+<ol type="1">
+  <li><span style ="font-weight:bold;font-size:20px;line-height:50px;">Military Service</span>&emsp;
+      <span style ="font-weight:bold;font-size:20px;line-height:50px;">(2017.07 - 2019.04)</li>
+  <li><span style ="font-weight:bold;font-size:20px;line-height:50px;">Academy</span></li>
+</ol>
+
+
 ## Header 2
 
 > This is a blockquote following a header.
