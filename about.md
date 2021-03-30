@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+<span style=";font-size:20px;line-height:1.0em;">
 Hi, I am YoungJin Kang. I was born in Korea on September 13, 1995.<br>
 I started studying abroad in China when I was 14 years old and graduated from Peking University.<br>
 I graduated as a Korean for the first time in Peking University's mathematics department, and my major is applied mathematics.<br>
@@ -16,13 +16,13 @@ I am very interested in data analysis using math and Python.<br>
 북경대학교 수학과에서 한국인으로써 최초로 졸업을 했으며, 세부전공은 응용수학입니다.<br>
 지금은 현재 데이터과학쪽으로 석사 진학을 준비중입니다.<br>
 저는 수학과 파이썬을 이용한 데이터 분석에 흥미가 매우 많습니다.<br>
-
+</span>
 ***
 
 <center><span style="font-weight:bold;font-size:40px;color:navy;">Education</span></center>
 
 <img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">
-## Peking university
+<span style = " font-size:30px;">Peking university</span>
 <span style = " font-size:16px;line-height:10px;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
 
