@@ -24,7 +24,7 @@ I am very interested in data analysis using math and Python.
 
 <center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Education</span></center>
 <center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px">&emsp;&emsp;&emsp;&emsp;</center>
+<img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
 <span style = "font-weight:bold;font-size:30px;">Peking university</span><br>
 <span style = " font-size:18px;line-height:22px;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
