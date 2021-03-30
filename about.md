@@ -39,20 +39,18 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
 </div>
-<br>
+<br><br>
 
 <!-- 스킬 -->
-<div style="text-align:center">
-<span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Skills</span>
-</div>
+<center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Skills</span></center>
   <!-- 수학 -->
-<div style="width:20%; float:left; height:150px; text-align:left; margin-left:10%; margin-right:10%">
+<div style="width:30%; float:left; height:150px; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics</span><br>
 <span style ="font-size:18px">Time Series</span><br>
 <span style ="font-size:18px">Statistical Modelling</span>
 </div>
   <!-- 프로그래밍 -->
-<div style="width:20%; float:left; height:150px; text-align:left;">
+<div style="width:30%; float:right; height:150px; text-align:left; margin-left:5%; margin-right:15%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Programming</span><br>
 <span style ="font-size:18px">* Python</span><br>
 <span style ="font-size:18px">* R language</span><br>
@@ -60,13 +58,16 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style ="font-size:18px">** Artificial Intelligence</span>
 </div>
   <!-- 언어 -->
-<div style="width:20%; float:right; height:150px; text-align:left; margin-left:10%; margin-right:10%;">
+<div style="width:30%; float:left; height:150px; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Language</span><br>
 <span style ="font-size:18px">Korean (Native)</span><br>
 <span style ="font-size:18px">English (Fluent)</span><br>
 <span style ="font-size:18px">Chinese (Fluent)</span>
 </div>
-
+  <!-- 이외-->
+<div style="width:30%; float:right; height:150px; text-align:left; margin-left:5%; margin-right:15%">
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">Others</span><br>
+</div>
 ## Header 2
 
 > This is a blockquote following a header.
