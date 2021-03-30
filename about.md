@@ -42,11 +42,13 @@ I am very interested in data analysis using math and Python.<br><br>
 
 <!-- 스킬 -->
 <center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">Skills</span></center>
-<div style="width:20%; height:150px; float:left; text-align:left; margin-left:10%;">
+  <!-- 수학 -->
+<div style="width:20%; height:150px; float:left; text-align:left;">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics</span><br>
 <span style ="font-size:18px">Time Series</span><br>
 <span style ="font-size:18px">Statistical Modelling</span>
 </div>
+  <!-- 프로그래밍 -->
 <div style="width:20% height:150px; text-align:left; margin-left:10%;">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Programming</span>><br>
 <span style ="font-size:18px">Python</span><br>
@@ -54,6 +56,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style ="font-size:18px">SQL</span><br>
 <span style ="font-size:18px">Artificial Intelligence</span>
 </div>
+  <!-- 언어 -->
 <div style="width:20% height:150px; text-align:left; margin-left:10%; margin-right:10%;">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Language</span><br>
 <span style ="font-size:18px">Korean(Native)</span><br>
