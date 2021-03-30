@@ -22,9 +22,9 @@ I am very interested in data analysis using math and Python.<br>
 # <center>Education</center>
 
 <center><img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"></center>
-## <center>Peking university</center>
-<center>2014.09-2021.06</center>
-#### <center>Mathematics and Applied Mathematics</center><br>
+## <left>Peking university</left>
+<left>2014.09-2021.06</left>
+#### <left>Mathematics and Applied Mathematics</left><br>
 
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></center>
 ## <center>Lancaster university</center>
