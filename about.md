@@ -28,13 +28,13 @@ I am very interested in data analysis using math and Python.
 <img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
   <!-- 학교이름 -->
 <center>&emsp;<span style = "font-weight:bold;font-size:28px;">Peking university
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lancaster university</span><br></center>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lancaster university</span></center>
   <!-- 연도 -->
 <center><span style="font-style:italic;font-size:18px;line-height:18px;">2014.09 - 2021.06
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.06 - 2022.06&emsp;&emsp;&emsp;&emsp;2022.10 - 2023.06</span></center>
   <!-- 학과 -->
 <center><span style ="font-weight:bold;font-size:22px;line-height:24px;">Mathematics and Applied Mathematics
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Pre-master&emsp;&emsp;&emsp;&emsp;&emsp;MSc.Data Science
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Pre-master&emsp;&emsp;&emsp;&emsp;&emsp;MSc.Data Science</span></center>
 
 
 
