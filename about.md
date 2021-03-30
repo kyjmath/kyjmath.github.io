@@ -37,6 +37,9 @@ I am very interested in data analysis using math and Python.<br><br>
 <br><br>
 <center><span style="font-style:italic;font-size:18px;line-height:30px;">|2021.10 - 2022.06|2022.10 - 2023.06|</span></center>
 <center>&emsp;&emsp;&emsp;<span style ="font-weight:bold;font-size:20px;line-height:50px;">|Pre-Master      |MSc.Data Science|</span></center>
+
+<center>|2021.10 - 2022.06|2022.10 - 2023.06|</center>
+<center>|Pre-Master       |MSc.Data Science |</center>
 ## Header 2
 
 > This is a blockquote following a header.
