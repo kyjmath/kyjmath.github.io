@@ -27,7 +27,7 @@ I am very interested in data analysis using math and Python.
 <center><span style="font-weight:bold;font-size:40px;color:navy;">Education</span></center>
 
 <img src = "https://kyjmath.github.io/assets/Emogi/peking university logo.png" width="150px"><br>
-<span style = " font-size:30px;">Peking university</span><br>
+<span style = "font-weight:bold;font-size:30px;">Peking university</span><br>
 <span style = " font-size:16px;line-height:15px;">2014.09-2021.06</span>
 #### Mathematics and Applied Mathematics<br>
 
