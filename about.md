@@ -27,10 +27,11 @@ I am very interested in data analysis using math and Python.
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="130px"></center>
   <!-- 학교이름 -->
-<center><span style = "font-weight:bold;font-size:28px;">Peking university
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lancaster university</span><br></center>
+<center>&emsp;<span style = "font-weight:bold;font-size:28px;">Peking university
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lancaster university</span><br></center>
   <!-- 연도 -->
-<span style = " font-size:18px;line-height:22px;">2014.09-2021.06</span>
+<span style = " font-size:18px;line-height:22px;">2014.09 - 2021.06
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.06 - 2022.06&emsp;&emsp;&emsp;&emsp;2022.10 - 2023.06</span>
   <!-- 학과 -->
 #### Mathematics and Applied Mathematics<br>
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="150px"></center>
