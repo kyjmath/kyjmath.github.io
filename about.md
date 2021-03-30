@@ -79,6 +79,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <ol type="1">
   <li><span style ="font-weight:bold;font-size:20px;line-height:50px;">Military Service</span>&emsp;
       <span style ="font-size:18px;line-height:50px;">(2017.07 - 2019.04)</span></li>
+  > 수학과 컴퓨터를 이용한 사격지휘
   <li><span style ="font-weight:bold;font-size:20px;line-height:50px;">Academy</span></li>
 </ol>
 
