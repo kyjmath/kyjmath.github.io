@@ -7,7 +7,7 @@ permalink: /about/
 <!-- 자기소개 -->
  
 <center><span style="font-weight:bold;font-size:40px;line-height:100px;color:navy;">About</span></center>
-<pre><span style=";font-size:16px;line-height:25px;">Hi, I am YoungJin Kang. I was born in Korea on September 13, 1995.
+<pre><span style="font-weight:bold;font-size:16px;line-height:25px;">Hi, I am YoungJin Kang. I was born in Korea on September 13, 1995.
 I started studying abroad in China when I was 14 years old and graduated from Peking University.
 I graduated as a Korean for the first time in Peking University's mathematics department, and my major is applied mathematics.
 I'm currently preparing for a master's degree in data science.
