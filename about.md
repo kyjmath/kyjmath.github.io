@@ -45,7 +45,7 @@ I am very interested in data analysis using math and Python.<br><br>
 </div>
 
 <!-- 스킬 -->
-<center><span style="font-weight:bold;font-size:40px;line-height:60px;color:navy;">Skills</span></center>
+<div style='text-align:center; margin-up:10px><span style="font-weight:bold;font-size:40px;line-height:60px;color:navy;">Skills</span></center></div>
   <!-- 수학 -->
 <div style="width:30%; height:180px; float:left; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Mathematics</span><br>
@@ -60,7 +60,7 @@ I am very interested in data analysis using math and Python.<br><br>
   <li><span style ="font-size:18px">Python</span></li>
   <li><span style ="font-size:18px">R language</span></li>
   <li><span style ="font-size:18px">SQL</span></li>
-  <li><span style ="font-size:18px">CSS</span></li>
+  <li><span style ="font-size:18px">HTML, CSS</span></li>
   <li><span style ="font-size:18px">Artificial Intelligence</span></li>
 </div>
   <!-- 언어 -->
