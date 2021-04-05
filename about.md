@@ -52,7 +52,7 @@ I am very interested in data analysis using math and Python.<br><br>
   <li><span style ="font-size:18px">Time Series</span></li>
   <li><span style ="font-size:18px">Statistical Modelling</span></li>
   <li><span style ="font-size:18px">Partial Differential Equation</span></li>
-  <li><span style ="font-size:18px">Probablity</span></li>
+  <li><span style ="font-size:18px">Probability</span></li>
 </div>
   <!-- 프로그래밍 -->
 <div style="width:30%; height:180px; float:right; text-align:left; margin-left:15%; margin-right:5%">
