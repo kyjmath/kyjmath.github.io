@@ -87,7 +87,7 @@ I am very interested in data analysis using math and Python.<br><br>
   and calculate the complete data for firing actual artillery.
   <li><span style ="font-weight:bold;font-size:20px;line-height:50px;">Boot Camp (Government Full Funding)</span>&emsp;
       <span style ="font-size:18px;line-height:50px;">(2021.04 - 2021.09)</span></li>
-  **"Big Data Analysis Using Machine Learning"** Learn Python and R and databases deeply, further studying artificial intelligence, and how to apply them in practice.
+  __"Big Data Analysis Using Machine Learning"__ Learn Python and R and databases deeply, further studying artificial intelligence, and how to apply them in practice.
 </ol>
 
 
