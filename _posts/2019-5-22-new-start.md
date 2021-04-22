@@ -5,7 +5,7 @@ title : New start
 categories: [Projects]
 ---
 
-'''python
+```python
 
 # 집합형 자료 형 중 list type : 순서가 있고, 요소값 수정 가능
 from astropy.units import fa
@@ -71,8 +71,7 @@ print(sbs)
 sbs.pop(0)  # queue 구조 : FIFO
 print(sbs)
 
-'''
-
+```
 
 
 
