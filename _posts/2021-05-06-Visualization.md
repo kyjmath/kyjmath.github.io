@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title : Visualization [CHI]
-categories: [Practices]
+categories: [Practice]
 ---
 
 
