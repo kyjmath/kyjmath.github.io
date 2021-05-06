@@ -19402,7 +19402,6 @@ My friends
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<center><b><span style = "color:red;line-height:10.0em">As this html file is produced by YoungJin Kang, making copies without consent is strictly prohibited</span></b></center>
 </div>
 </div>
 </body>
