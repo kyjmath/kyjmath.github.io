@@ -91,4 +91,4 @@ I am very interested in data analysis using math and Python.<br><br>
 </ol>
 
 
-
+<center><h1><span style="color:red">아직 미완성</span></h1></center>
