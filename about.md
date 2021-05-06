@@ -33,14 +33,14 @@ I am very interested in data analysis using math and Python.<br><br>
   <!-- 랑카스터대학교 -->
 <div style="width:50%; height:400px; float:right; text-align:center;">
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="114px"></center>
-<center><span style = "font-weight:bold;font-size:28px;">Lancaster university</span></center>
+<center><span style = "font-weight:bold;font-size:28px;">나중입력1</span></center>
 <div style="width:40%; height:150px; float:left; text-align:center; margin-left:10%;">
-<span style="font-style:italic;font-size:18px;line-height:30px;">2021.10 - 2022.06</span><br>
-<span style ="font-weight:bold;font-size:20px;line-height:50px;">Pre-Master</span>
+<span style="font-style:italic;font-size:18px;line-height:30px;">나중입력2</span><br>
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">나중입력3</span>
 </div>
 <div style="width:40%; height:150px; float:right; text-align:center; margin-right:10%;">
-<span style="font-style:italic;font-size:18px;line-height:30px;">2022.10 - 2023.06</span><br>
-<span style ="font-weight:bold;font-size:20px;line-height:50px;">MSc.Data Science</span>
+<span style="font-style:italic;font-size:18px;line-height:30px;">나중입력4</span><br>
+<span style ="font-weight:bold;font-size:20px;line-height:50px;">나중입력5</span>
 </div>
 </div>
 
