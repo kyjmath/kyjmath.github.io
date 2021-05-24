@@ -69,14 +69,14 @@ I am very interested in data analysis using math and Python.<br><br>
   <li><span style ="font-size:18px">Artificial Intelligence</span></li>
 </div>
   <!-- 언어 -->
-<div style="width:30%; height:180px; float:left; text-align:left; margin-left:15%; margin-right:5%">
+<div style="width:30%; height:230px; float:left; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Language</span><br>
   <li><span style ="font-size:18px">Korean (Native)</span></li>
   <li><span style ="font-size:18px">English (Fluent)</span></li>
   <li><span style ="font-size:18px">Chinese (Fluent)</span></li>
 </div>
   <!-- 이외-->
-<div style="width:30%; height:180px; float:right; text-align:left; margin-left:15%; margin-right:5%">
+<div style="width:30%; height:230px; float:right; text-align:left; margin-left:15%; margin-right:5%">
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">Other Interests</span><br>
   <li><span style ="font-size:18px">Rubik's cube</span></li>
   <li><span style ="font-size:18px">Guitar</span></li>
