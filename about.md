@@ -31,6 +31,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style ="font-size:18px">(The first Korean graduate in the Department)</span></center><br>
 </div>
   <!-- 랑카스터대학교 -->
+ ```
 <div style="width:50%; height:400px; float:right; text-align:center;">
 <center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="114px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">나중입력1</span></center>
@@ -43,6 +44,7 @@ I am very interested in data analysis using math and Python.<br><br>
 <span style ="font-weight:bold;font-size:20px;line-height:50px;">나중입력5</span>
 </div>
 </div>
+```
 
 <!-- 스킬 -->
 <div style="text-align:center; margin-up:10px"><span style="font-weight:bold;font-size:40px;line-height:60px;color:navy;">Skills</span></div>
