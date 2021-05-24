@@ -33,7 +33,7 @@ I am very interested in data analysis using math and Python.<br><br>
   <!-- 랑카스터대학교 -->
  ```
 <div style="width:50%; height:400px; float:right; text-align:center;">
-<center><img src = "https://kyjmath.github.io/assets/Emogi/lancaster university logo.png" width="114px"></center>
+<center><img src = "picture" width="114px"></center>
 <center><span style = "font-weight:bold;font-size:28px;">나중입력1</span></center>
 <div style="width:40%; height:150px; float:left; text-align:center; margin-left:10%;">
 <span style="font-style:italic;font-size:18px;line-height:30px;">나중입력2</span><br>
