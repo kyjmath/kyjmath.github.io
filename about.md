@@ -64,7 +64,8 @@ I am very interested in data analysis using math and Python.<br><br>
   <li><span style ="font-size:18px">Python</span></li>
   <li><span style ="font-size:18px">R language</span></li>
   <li><span style ="font-size:18px">SQL</span></li>
-  <li><span style ="font-size:18px">HTML, CSS</span></li>
+  <li><span style ="font-size:18px">HTML, CSS, JavaScript</span></li>
+  <li><span style ="font-size:18px">Django</span></li>
   <li><span style ="font-size:18px">Artificial Intelligence</span></li>
 </div>
   <!-- 언어 -->
