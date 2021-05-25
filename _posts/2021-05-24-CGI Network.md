@@ -215,6 +215,4 @@ print(<span class="hljs-string" style="color: rgb(72, 153, 99);">"""
 <br>
 <center><img src="https://kyjmath.github.io/assets/Emogi/CGI.gif" width="70%" height=auto></center>
 
-</pre>
-</span>
 </body>
