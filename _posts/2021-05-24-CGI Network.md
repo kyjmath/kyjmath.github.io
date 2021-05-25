@@ -4,6 +4,7 @@ comments: true
 title : CGI Network [KOR]
 categories: [Practice]
 ---
+<body>
 <img src="https://kyjmath.github.io/assets/Emogi/cgi1.png" width="70%" height=auto>
 <img src="https://kyjmath.github.io/assets/Emogi/cgi2.jpg" width="25%" height=auto>
 <br><br>
@@ -209,8 +210,9 @@ print(<span class="hljs-string" style="color: rgb(72, 153, 99);">"""
 <br><br>
 
 <center><span style="font-size:20px;color:navy;font-weight:bold;">최종 출력 화면</span></center>
-<br><br>
+<br>
 <center><img src="https://kyjmath.github.io/assets/Emogi/CGI.gif" width="70%" height=auto></center>
 
 </pre>
 </span>
+</body>
